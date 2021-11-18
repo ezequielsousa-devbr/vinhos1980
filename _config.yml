@@ -1,0 +1,34 @@
+# INFORMATIONS WEBSITE
+title: Vinhos 1980
+author: Ezequiel Sousa, Webdeveloper
+description:
+keywords:
+generator: sublime text
+type: website
+locale: pt_BR
+logo: horizontal_on_white_by_logaster-2.png
+favicon: favicon.png
+default-img: https://media-public.canva.com/djz8c/MAELdadjz8c/1/s.jpg
+about-img: https://media-public.canva.com/MADQ5U3CtAU/1/screen.jpg
+
+# DOMAINS
+url: "localhost" # example > https://www.example.com
+baseurl: "" # example > /subpaste/
+
+# ANALYTICS
+google_analytics:
+google_tags:
+smartlook_analytics:
+
+# SOCIAL MIDIA
+facebook:
+twitter:
+instagram:
+youtube:
+pinterest:
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - material/
+  - .jekyll-cache/

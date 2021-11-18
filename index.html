@@ -1,0 +1,33 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	{% include meta.html %}
+	<title>{{site.title}}</title>
+</head>
+<body>
+	<div class="container-lg-fluid">
+		<header>{% include nav.html %}</header>
+		<section id="home">
+			{% include default.html %}
+		</section>
+		<section id="about">
+			{% include about.html %}
+		</section>
+		<section id="services">
+			{% include services.html %}
+		</section>
+		<section id="contact">
+			<div>
+				{% include contact.html %}
+			</div>
+		</section>
+		<footer>
+			<div class="copyright">&copy; Desenvolvido Por. {{site.author}}</div>
+		</footer>
+	</div>
+	{% include script.html %}
+</body>
+</html>
