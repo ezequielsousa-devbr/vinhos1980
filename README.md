@@ -1,1 +1,1 @@
-![screenshot](https://raw.githubusercontent.com/ezequielsousa-devbr/vinhos1980/main/material/img/Home.png?token=AQESWUBL24SCIFCH7VW7G3DBS3JEU)
+![screenshot](https://raw.githubusercontent.com/ezequielsousa-devbr/vinhos1980/main/material/img/screenshot.png?token=AQESWUF42A6TNOENA6WXAWLBS3JR2)
