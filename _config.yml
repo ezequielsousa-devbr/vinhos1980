@@ -1,6 +1,6 @@
 # INFORMATIONS WEBSITE
 title: Vinhos 1980
-author: Ezequiel Sousa, Webdeveloper
+author: ezequielsousa-devbr
 description:
 keywords:
 generator: sublime text
@@ -8,7 +8,9 @@ type: website
 locale: pt_BR
 logo: horizontal_on_white_by_logaster-2.png
 favicon: favicon.png
-default-img: https://media-public.canva.com/djz8c/MAELdadjz8c/1/s.jpg
+default_img: https://media-public.canva.com/djz8c/MAELdadjz8c/1/s.jpg
+default_img_left: https://media-public.canva.com/mbyR0/MAEFlfmbyR0/1/s.jpg
+default_alt: vinhos dos anos 80
 about-img: https://media-public.canva.com/MADQ5U3CtAU/1/screen.jpg
 
 # DOMAINS
@@ -32,3 +34,7 @@ exclude:
   - Gemfile.lock
   - material/
   - .jekyll-cache/
+  - package.json
+  - package-lock.json
+  - README.md
+  - siteicon.png
