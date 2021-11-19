@@ -79,12 +79,12 @@ header {
 	text-decoration: none;
 	color: #fff;
 }
-.nav .sub_nav li a:hover {
+/*.nav .sub_nav li a:hover {
 	background-color: #e63c3c;
 	border-radius: 5px;
 	padding: 10px 15px;
 	transition: .6s ease-in-out;
-}
+}*/
 .figure_logo .img-fluid {
 	background-color: #000;
 	background-repeat: no-repeat;
