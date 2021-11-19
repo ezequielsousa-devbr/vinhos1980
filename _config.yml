@@ -34,3 +34,7 @@ exclude:
   - Gemfile.lock
   - material/
   - .jekyll-cache/
+  - package.json
+  - package-lock.json
+  - README.md
+  - siteicon.png
