@@ -287,6 +287,10 @@ header {
 .contact_line {
 	margin-bottom: 45px;
 }
+.fas {
+	font-size: 35px;
+	margin: auto 3px;
+}
 .con_contact .h2 {
 	font-family: 'Spartan', sans-serif;
 	font-size: 75px;
