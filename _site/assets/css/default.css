@@ -274,7 +274,8 @@ header {
 	background-size: cover;
 	background-attachment: fixed;
 	object-fit: cover;
-	padding: 100px; z-index: -100px;
+	padding-top: 28px; padding-bottom: 0px;
+	z-index: -100px;
 	box-shadow: inset 100px 650px 100px rgba(2,2,2,0.8);
 }
 .figure_contact .img-fluid {
