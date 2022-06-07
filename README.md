@@ -1,7 +1,3 @@
-## WEBSITE DEMO
-[livedemo](https://long-hanger.cloudvent.net/)
+## Clube dos Vinhos Website
 
-**Mobile**<br>
-Não<br>
-
-![screenshot](https://github.com/ezequielsousa-devbr/vinhos1980/blob/clouddemo/material/img/screenshot.png)
+- Não responsivo
