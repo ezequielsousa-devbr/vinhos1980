@@ -1,3 +1,3 @@
 ## Clube dos Vinhos Website
 
-- Não responsivo
+- [no] Mobile
