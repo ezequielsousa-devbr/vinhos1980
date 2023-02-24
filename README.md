@@ -1,5 +1,3 @@
-## WEBSITE DEMO
-[livedemo](https://long-hanger.cloudvent.net/)
+## Clube dos Vinhos Website
 
-**Mobile**<br>
-Não<br>
+- [no] Mobile
