@@ -1,9 +1,0 @@
-Fonts
-
-- League Spartan
-- Rubik
-- Lato
-
-Cores
-
-- Hex (#e63c3c)
