@@ -1,12 +1,15 @@
-<div>
-	<div class="container_text">
-		<h1 class="h1">Vinhos da Turma 80</h1>
-		<p><small>Venha repetir essa história de amizades junto conosco</small></p>
+<div class="fig_main">
+	<div class="container_text title_main line_main">
+		<h2 class="h2 effect_drop_shadow">Os melhores vinhos<br/> 1980</h2>
+		<p class="descriptions"><small>Saborear a vida com um belissímo vinho com mais de 20 anos de tradição!</small></p>
 	</div>
-	<figure class="figure_default_left">
-		<img class="img-fluid" src="{{site.default_img_left}}" alt="{{site.default_alt}}" />
-	</figure>
-	<figure class="figure_default">
-		<img class="img-fluid" src="{{site.default_img}}" alt="{{site.default_alt}}" />
-	</figure>
+	<div class="carrousel_div">
+		<div class="carrousel_figures_main">
+			{% for run in site.data.figures %}
+			<figure class="bg_background_main">
+				<img class="img-fluid bg_main" src="{{run.figures}}" alt="{{site.descriptions}}" />
+			</figure>
+			{% endfor %}
+		</div>
+	</div>
 </div>
